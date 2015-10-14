@@ -1,0 +1,22 @@
+.navbar-static-top {
+	margin-bottom: 19px;
+	background-color: #0C4B33;
+	color: #fff;
+	margin-bottom: 0px;
+	border-bottom: none;
+}
+
+.navbar-brand .django{
+	width: 70px;
+	margin-right: -7px;
+}
+
+.navbar-brand .motogp{
+	width: 170px;
+	margin-left: -7px;
+}
+
+.jumbotron{
+	background-color: #44B78B;
+	color: #083524;
+}

@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block title %} Welcome | {{ block.super }} {% endblock %}
+{% block jumbotron%}
+<!-- Main component for a primary marketing message or call to action -->
+	<!-- {{ block.super }} -->
+<div class="jumbotron">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<h1>Catalunya 2009</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo odit, laborum debitis impedit illum error nisi repellat molestias, sunt fuga dolore, accusantium voluptate, nam tenetur possimus. </p>
+				<p>
+				<a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">About Us &raquo;</a>
+				</p>
+			</div>
+
+			<div class="col-sm-6">
+				<iframe src="https://player.vimeo.com/video/32756097?title=0&byline=0&portrait=0" width="525" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+{% block content%}
+<div class="container">
+	<div class="row">
+		<div class="col-xs-3 lead text-align-center">Laboriosam quasi aperiam</div>
+		<div class="col-xs-3 lead text-align-center">Aliquam expedita hic, laudantium rem</div>
+		<div class="col-xs-3 lead text-align-center">Mollitia, earum!</div>
+		<div class="col-xs-3 pull-right">
+			<div class="lead text-align-center">{{wish}}</div>
+
+			<form class="col-xs-12" method="POST" action="">{% csrf_token %}
+				{{ form|crispy }}
+				<input class="btn btn-primary" type="submit" value="Sign Up">
+			</form>
+		</div>
+	</div>
+</div>
+{% endblock %}

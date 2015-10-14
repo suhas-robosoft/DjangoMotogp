@@ -1,0 +1,1842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"aligned_center"
+			],
+			[
+				"cent",
+				"center"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"sending",
+				"sending_mail"
+			],
+			[
+				"EM",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"E",
+				"EMAIL_HOST_USER	(settings.py)"
+			],
+			[
+				"for",
+				"form_message"
+			],
+			[
+				"form_",
+				"form_email"
+			],
+			[
+				"in",
+				"input	(home.html)"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"Sign",
+				"SignUpForm	(forms.py)"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"rule",
+				"rule_value"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"NUL",
+				"null"
+			],
+			[
+				"opera",
+				"operator"
+			],
+			[
+				"mys",
+				"mysqli_"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"confi",
+				"Config"
+			],
+			[
+				"Confi",
+				"config	(init.php)"
+			],
+			[
+				"m",
+				"mysql	(init.php)"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"metho",
+				"method"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"rec",
+				"recipe_node"
+			],
+			[
+				"food",
+				"food_item"
+			],
+			[
+				"nid",
+				"nid"
+			],
+			[
+				"db",
+				"dbpass"
+			],
+			[
+				"js",
+				"json	(API.php)"
+			],
+			[
+				"st",
+				"status_message"
+			],
+			[
+				"funct",
+				"function	(API.php)"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"c",
+				"class	class …"
+			],
+			[
+				"my",
+				"myName"
+			],
+			[
+				"page",
+				"pageID	(coachparser.js)"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"My",
+				"MyClass"
+			],
+			[
+				"proto",
+				"prototype	(coachparser.js)"
+			],
+			[
+				"cocah",
+				"coachParser"
+			],
+			[
+				"prompt",
+				"promptNodes"
+			],
+			[
+				"intera",
+				"interactionDivNode"
+			],
+			[
+				"createS",
+				"createSpyObj"
+			],
+			[
+				"atr",
+				"attributes"
+			],
+			[
+				"and",
+				"andCallFake"
+			],
+			[
+				"get",
+				"getAudio"
+			],
+			[
+				"creat",
+				"createSpyObj"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"newI",
+				"newItemNode"
+			],
+			[
+				"create",
+				"createSpyObj	(choiceparserspec.js)"
+			],
+			[
+				"coac",
+				"coachParser"
+			],
+			[
+				"max",
+				"maxChoices	(choiceparser.js)"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalled"
+			],
+			[
+				"choice",
+				"choiceParser"
+			],
+			[
+				"div",
+				"divNodes"
+			],
+			[
+				"item",
+				"itemBody"
+			],
+			[
+				"defa",
+				"default	(choiceparser.js)"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"dist",
+				"distToPush	(choiceparser.js)"
+			],
+			[
+				"choiceparse",
+				"choiceparser"
+			],
+			[
+				"it",
+				"itemBody"
+			],
+			[
+				"crea",
+				"createSpyObj"
+			],
+			[
+				"getI",
+				"getInteraction	(choiceparser.js)"
+			],
+			[
+				"pro",
+				"prototype	(interaction.js)"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"parse",
+				"parseMapNodes	(choiceparser.js)"
+			],
+			[
+				"ch",
+				"choiceParser"
+			],
+			[
+				"load",
+				"loadDistracters	(choiceparser.js)"
+			],
+			[
+				"loa",
+				"loadDistracters	(choiceparser.js)"
+			],
+			[
+				"map",
+				"mapNodes"
+			],
+			[
+				"correc",
+				"correctNodes"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"truncate",
+				"truncateCount"
+			],
+			[
+				"stopA",
+				"stopAllVO	(activitymgrtr.js)"
+			],
+			[
+				"La",
+				"LayoutMgrTR"
+			],
+			[
+				"mouse",
+				"mousemove"
+			],
+			[
+				"displa",
+				"display	(layout_note.js)"
+			],
+			[
+				"po",
+				"position	(layout_note.js)"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"_base",
+				"_baseLayout"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"sent",
+				"sentence"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"currentT",
+				"currentTime"
+			],
+			[
+				"backround",
+				"background-position"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"tem",
+				"template_canvas"
+			],
+			[
+				"bloc",
+				"blockButton"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"sca",
+				"scaleY"
+			],
+			[
+				"LA",
+				"LayoutMatchself"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"_cont",
+				"_controller"
+			],
+			[
+				"header",
+				"header_mc"
+			],
+			[
+				"hei",
+				"height(848"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"cu",
+				"currentTarget"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"addEve",
+				"addEventListener"
+			],
+			[
+				"stop",
+				"stopButtonRelease"
+			],
+			[
+				"passageL",
+				"_passageLayOutMgr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"_bas",
+				"_baseLayout"
+			],
+			[
+				"_ba",
+				"_baseControl"
+			],
+			[
+				"blo",
+				"blockButtonDisable"
+			],
+			[
+				"save",
+				"saveAudio"
+			],
+			[
+				"getS",
+				"getScreenState"
+			],
+			[
+				"_",
+				"_baseLayout"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"background",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/test_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/newsletter/views.py",
+			"settings":
+			{
+				"buffer_size": 1830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static_in_pro/our_static/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1885,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 41.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 422.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Django/first_django/src",
+		"/D/Django/first_django/src/newsletter",
+		"/D/Django/first_django/src/static_in_pro",
+		"/D/Django/first_django/src/static_in_pro/our_static",
+		"/D/Django/first_django/src/static_in_pro/our_static/css",
+		"/D/Django/first_django/src/templates",
+		"/D/Django/first_django/static_in_env",
+		"/D/Django/first_django/static_in_env/static_root"
+	],
+	"file_history":
+	[
+		"/D/Django/first_django/src/templates/javascript.html",
+		"/D/Django/first_django/src/static_in_pro/our_static/css/custom.css",
+		"/D/Django/first_django/src/templates/home.html",
+		"/D/Django/first_django/src/templates/base.html",
+		"/D/Django/first_django/src/templates/head_css.html",
+		"/D/Django/first_django/src/templates/contact.html",
+		"/D/Django/first_django/src/newsletter/views.py",
+		"/D/Django/first_django/src/newsletter/forms.py",
+		"/D/Django/first_django/src/newsletter/admin.py",
+		"/D/Django/first_django/src/newsletter/models.py",
+		"/D/Django/first_django/src/test_project/settings.py",
+		"/D/Django/first_django/src/static_in_pro/our_static/img/image.txt",
+		"/D/Django/first_django/src/newsletter/templates/home.html",
+		"/C/key_logger.pyw",
+		"/C/Users/Suhas/launch.bat",
+		"/C/out_time/out_time.pyw",
+		"/C/log.txt",
+		"/C/out_time/out_time_log.txt",
+		"/C/out_time/out_time.txt",
+		"/C/Python27/Lib/site-packages/win32/lib/pywintypes.py",
+		"/C/Python27/Lib/site-packages/pythoncom.py",
+		"/C/Python27/Lib/site-packages/pywin32_system32/pythoncom27.dll",
+		"/C/xampp/htdocs/MVCPHP/app/models/key_logger.pyw",
+		"/C/xampp/htdocs/MVCPHP/app/core/App.php",
+		"/C/xampp/htdocs/MVCPHP/app/init.php",
+		"/C/xampp/htdocs/MVCPHP/app/core/DB.php",
+		"/C/xampp/htdocs/MVCPHP/app/core/Controller.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/register.php",
+		"/C/xampp/htdocs/MVCPHP/app/controllers/home.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/home/index.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/home/home.html",
+		"/C/xampp/htdocs/MVCPHP/public/index.php",
+		"/C/xampp/htdocs/MVCPHP/app/models/link.php",
+		"/C/xampp/htdocs/MVCPHP/app/models/PagesAdded.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/loginPage.php",
+		"/C/xampp/htdocs/MVCPHP/app/classes/login.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/pageList.php",
+		"/C/xampp/htdocs/MVCPHP/app/views/menu.php",
+		"/C/xampp/htdocs/MVC/app/classes/Validate.php",
+		"/C/xampp/htdocs/MVC/app/views/home/index.php",
+		"/C/Users/Suhas/Desktop/MVCPHP/app/views/home/index.php",
+		"/C/xampp/htdocs/MVC/app/core/App.php",
+		"/C/Users/Suhas/Desktop/MVCPHP/app/views/pageList.php",
+		"/C/xampp/htdocs/MVC/app/views/home/register.php",
+		"/C/xampp/htdocs/MVC/app/classes/Input.php",
+		"/C/xampp/htdocs/MVC/app/views/home/loginPage.php",
+		"/C/Users/Suhas/Desktop/MVCPHP/app/core/DB.php",
+		"/C/Users/Suhas/Desktop/MVCPHP/app/init.php",
+		"/C/Users/Suhas/Desktop/MVCPHP/app/core/App.php",
+		"/C/xampp/htdocs/MVC/app/classes/DB.php",
+		"/C/xampp/htdocs/MVC/app/init.php",
+		"/C/xampp/htdocs/MVC/public/index.php",
+		"/C/xampp/htdocs/MVC/public/css/bootstrap.min.css",
+		"/C/xampp/htdocs/MVC/public/css/login.css",
+		"/C/xampp/htdocs/MVC/app/models/User.php",
+		"/C/xampp/htdocs/MVC/app/views/home/menu.php",
+		"/C/xampp/htdocs/MVC/app/controller/home.php",
+		"/C/xampp/htdocs/MVC/app/core/Controller.php",
+		"/C/xampp/htdocs/MVC/public/login.php",
+		"/C/xampp/htdocs/MVC/public/logout.php",
+		"/C/xampp/htdocs/MVC/public/profile.php",
+		"/C/xampp/htdocs/MVC/public/register.php",
+		"/C/xampp/htdocs/MVC/public/update.php",
+		"/C/xampp/htdocs/MVC/public/changepassword.php",
+		"/C/xampp/htdocs/MVC/app/classes/Validation.php",
+		"/C/xampp/htdocs/MVC/app/classes/User.php",
+		"/C/xampp/htdocs/MVC/app/classes/Token.php",
+		"/C/xampp/htdocs/MVC/app/classes/Session.php",
+		"/C/xampp/htdocs/MVC/app/classes/Redirect.php",
+		"/C/xampp/htdocs/MVC/app/classes/Hash.php",
+		"/C/xampp/htdocs/MVC/app/classes/Cookie.php",
+		"/C/xampp/htdocs/MVC/app/models/Config.php",
+		"/C/xampp/htdocs/MVC/app/models/DB.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/MVC/app/controller/contacts.php",
+		"/C/xampp/htdocs/MVC/public/.htaccess",
+		"/C/xampp/htdocs/RestAPI/.htaccess",
+		"/C/xampp/htdocs/MVC/app/.htaccess",
+		"/C/xampp/htdocs/RestAPI/includes/connection.php",
+		"/C/xampp/htdocs/RestAPI/API.php",
+		"/C/xampp/htdocs/RestAPI/functions.php",
+		"/C/xampp/htdocs/RestAPI/index.php",
+		"/C/Users/Suhas/AppData/Local/Temp/Temp1_framework1.zip/framework/application/controllers/itemscontroller.php",
+		"/C/xampp/htdocs/php/studentDB.php",
+		"/C/xampp/htdocs/php/json_code.php",
+		"/C/Users/Suhas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Suhas/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/shoppingcart/wp-content/themes/storefront-child/style.css",
+		"/C/xampp/htdocs/shoppingcart/wp-content/themes/storefront/style.css",
+		"/C/xampp/htdocs/shoppingcart/wp-content/themes/storefront-hello/style.css",
+		"/C/xampp/htdocs/shoppingcart/wp-content/index.php",
+		"/C/hw1-3.81c9d0bce74f/hw1-3/package.json",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Test/karma.conf.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Test/units/common/model/xmlparser/interactions/coachparserspec.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/xmlparser/interactions/coachparser.js",
+		"/C/xampp/htdocs/shoppingcart/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-product-categories.php",
+		"/C/xampp/htdocs/shoppingcart/wp-content/themes/twentyfourteen/style.css",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Test/units/common/model/xmlparser/interactions/choiceparserspec.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/xmlparser/interactions/interactionparser.js",
+		"/C/xampp/htdocs/test.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/utility/util.js",
+		"/C/xampp/htdocs/index.html",
+		"/D/Savitar/Others/Daily_Updates/Vishnu/UnitTest/KeepOrChange/activitymgr_keepchangespec.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/controller/activitymgr_keepchange.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/controller/activitymgr_buildorbreak.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/controller/activitymgr_letsrace.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/contentsets/coachset.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/contentsets/contentset.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/interactions/highlightgroup.js",
+		"/D/Savitar/Others/Daily_Updates/Santhosh R Bhat/2015/Savitar/unitTest/common/model/interactions/assessmentdataspec.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/model/interactions/assessmentdata.js",
+		"/C/hw1-2.12e127596885/hw1-2/app.js",
+		"/C/xampp/htdocs/shoppingcart/wp-content/themes/twentyfourteen/css/editor-style.css",
+		"/C/xampp/htdocs/shoppingcart/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php",
+		"/C/xampp/htdocs/savitar/02-Mar-15/node_modules/protractor/node_modules/selenium-webdriver/test/http/util_test.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/test_out/unit.xml",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/scormhelper/scorminitializer.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Test/Unit/Common/ScormHelper/ScormInitializerSpec.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Docs/SCORM_2004_Overview.docx",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/public_lib/bootstrap/js/scrollspy.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/public_lib/angular-audio/css/shCoreRDark.css",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/media/68_environment/showandhide_conv.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/common/scormhelper/scormterminator.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/view/refReader/layoutpassageref_68.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/view/textreader/layout_passage.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/view/textreader/layout_passage_68.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/view/refReader/layoutelapsedtime.js",
+		"/C/xampp/htdocs/savitar/02-Mar-15/Source/templates/common/layout/layout107.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\MVC",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\buildorbreak",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr\\en_us",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr\\controller",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr\\coach",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr\\assets",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\tr\\art",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\*.*",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\*.html",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\lo",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\template",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\common, C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\player, C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\common, C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\player ",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\source/templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\player",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\layout",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\layout",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\view",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\",
+			"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\view, C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\controller",
+			"C:\\xampp\\htdocs\\savitar1\\Source\\templates\\common\\view, C:\\xampp\\htdocs\\savitar1\\Source\\templates\\common\\controller",
+			"C:\\xampp\\htdocs\\savitar1\\Source\\templates",
+			"C:\\xampp\\htdocs\\savitar1\\Source\\templates\\common"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_rows",
+			"addError",
+			"lable",
+			"bootstrap",
+			"bootsrap",
+			"bootstrap.min",
+			"echo",
+			"_results",
+			"_result",
+			"error",
+			"reached",
+			"return",
+			"error",
+			"var_dump",
+			"call_",
+			"print",
+			" );",
+			"C",
+			"Controller",
+			"echo",
+			"$food",
+			"$recipe",
+			"$name",
+			"$food_recipe",
+			"_coachVO",
+			"highlightGrp",
+			"coachTxtGrp",
+			"HighlightGroup",
+			"CoachTextGroup",
+			"assetGrpID",
+			"thisAudio",
+			"assessEle",
+			"promptNodes",
+			"Util",
+			"cmiCount",
+			"hottextInteractionNodes",
+			"parseAssessmentItems",
+			"setCardinality",
+			"pushBody",
+			"().and",
+			"defaultIncorrectValue",
+			"choiceInteraction",
+			"choiceParser",
+			"item=",
+			"item.",
+			"item",
+			"this.item",
+			"parseAssessmentItems",
+			"responseDeclaration",
+			"function",
+			"isComplete",
+			"env",
+			"proto",
+			"for(var",
+			"proto",
+			"for(var",
+			"proto",
+			"for(var",
+			"prot",
+			"if(i==0)",
+			"var varName;\n	if(i==0){",
+			"var varName;\n	if(i==0){\n		varName=\"shape\";\n	}else{\n		varName=\"shape_\"+i;\n	}\n	this[varName]=null;",
+			"var varName;\nvarName=\"shape\";\nthis[varName]=null;",
+			"var varName;\n	if(i==0){\n		varName=\"shape\";\n	}else{\n		varName=\"shape_\"+i;\n	}\n	this[varName]=null;",
+			"proto",
+			"<=1",
+			"proto",
+			"for(",
+			"proto",
+			"for(",
+			"proto",
+			"addLogThroughAjax",
+			"#mixitup",
+			"getFeedBackElement",
+			"get",
+			"getFeed",
+			"doneButtonRe",
+			"checkAnswer",
+			"icon",
+			"icon4",
+			"endIconAnimation",
+			"icon4",
+			"temp = null",
+			"playFeedbackAudio",
+			"playFeedbackaudio",
+			"getAssessmentDataByID",
+			"getAssessmentDataByID =",
+			"getAssessmentDataByID",
+			"_currentOrdinalQuestionValue",
+			"_buildPrompt",
+			"_build",
+			"_currentOrdinalQuestionValue",
+			".prompt",
+			"question",
+			"prompt",
+			"choice",
+			"prompt",
+			"promt",
+			"quest.prompt",
+			"DoneButtonRelease",
+			"truncateString",
+			"stopAllVO",
+			"tou",
+			"ng-t",
+			"closetheFeedbackAudio",
+			"closetheFeedbackaudio",
+			"baseClass",
+			"closetheFeed",
+			"#mi",
+			"wordPartO",
+			"wordPa",
+			"width",
+			"wordPart",
+			"_truncateString",
+			"optionCount",
+			"setCharacterCount",
+			"fibQ",
+			"_truncateString",
+			"truncate",
+			"answerButtons[i].label",
+			"answerButtons",
+			"ctrl.answerButtons",
+			"answerBtn",
+			"answerBtn.label",
+			".label",
+			"answer",
+			"ctrl.layoutNumber != 3",
+			"notButton"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"c",
+			"$food->recipe",
+			"$food",
+			"$title",
+			"$food_item",
+			".and",
+			"var varName;\n    varName=\"shape\";\n    this[varName]=null;",
+			"var varName;\nvarName=\"shape\";\nthis[varName]=null;",
+			"miaTween",
+			"zachTween",
+			"antonioTween",
+			"JasmineTween",
+			"this",
+			"(sound[id].sampleRate/1000)",
+			"},1);",
+			"+1",
+			"+5",
+			"},5);",
+			"},50);",
+			"+50",
+			"+50;",
+			"+1;",
+			"},1);",
+			"+500;",
+			"},500);",
+			"sound[self.currentID].presentTime = sound[self.currentID].presentTime+100;",
+			"sound[id].presentTime = sound[id].presentTime+100;",
+			"},100);",
+			"sound[id].presentTime++;",
+			"++",
+			"sound[self.currentID].presentTime",
+			"sound[self.currentID].timerSet",
+			"sound[id].timerSet",
+			"sound[id].presentTime",
+			",1",
+			"playList[self.currentID]",
+			"playList[this.currentID]",
+			"typeof self.playList[id]!== \"undefined\"",
+			"id",
+			"clearInterval",
+			"setInterval",
+			"smret_fr",
+			"target",
+			"this._targetDetails",
+			"heinemannschool-bold",
+			"endClip",
+			"this.playHelpAnimation",
+			"introClip",
+			"this._selectedPassage",
+			"for=\"{{optionType+$index}}\"",
+			"<input id=\"checkbox{{$index}}\" type=\"checkbox\" name=\"icheck\" ng-value=\"choices.data\" ng-click=\"setChoices(choices.data)\" ng-checked=\"\" ng-show=\"!quest.choice.radio\" ng-disabled=\"!choices.enabled\" ng-class=\"{correct:(choices.mode !== undefined && choices.mode === 'correct'),disabled:(choices.mode !== undefined && choices.mode === 'disabled'),incorrect:(choices.mode !== undefined && choices.mode === 'incorrect'),selected:(choices.mode !== undefined && choices.mode === 'selected')}\">",
+			"id =\"optionContent{{choices.data}}\" class =\"optionContent templateFont{{}}\" ng-class=\"{'optionDisable' : !choices.enabled}\"",
+			"\"rubricdoneButton\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/test_project/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								972,
+								972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/newsletter/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1050,
+								1050
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/static_in_pro/our_static/css/custom.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first_django.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"loginpa",
+				"MVCPHP\\app\\views\\loginPage.php"
+			],
+			[
+				"util",
+				"Source\\common\\utility\\util.js"
+			],
+			[
+				"scromini",
+				"Source\\common\\scormhelper\\scorminitializer.js"
+			],
+			[
+				"layoutpass",
+				"Source\\templates\\common\\view\\refReader\\layoutpassageref_68.js"
+			],
+			[
+				"simple",
+				"Source\\common\\model\\interactions\\simpleinteraction.js"
+			],
+			[
+				"intera",
+				"Source\\common\\model\\interactions\\interaction.js"
+			],
+			[
+				"choice",
+				"node_modules\\bower\\node_modules\\insight\\node_modules\\inquirer\\lib\\objects\\choice.js"
+			],
+			[
+				"choiceparse",
+				"Test\\Unit\\Common\\Model\\xmlparser\\interactions\\ChoiceParserSpec.js"
+			],
+			[
+				"interactionparse",
+				"Source\\common\\model\\xmlparser\\interactions\\interactionparser.js"
+			],
+			[
+				"activitymgrlets",
+				"Source\\templates\\common\\controller\\activitymgr_letsrace.js"
+			],
+			[
+				"activitymgrb",
+				"Source\\templates\\common\\controller\\activitymgr_buildorbreak.js"
+			],
+			[
+				"activitymgrke",
+				"Source\\templates\\common\\controller\\activitymgr_keepchange.js"
+			],
+			[
+				"karma",
+				"Test\\karma.conf.js"
+			],
+			[
+				"layoutmgrpick",
+				"Source\\templates\\common\\view\\layoutmgr_picknclick.js"
+			],
+			[
+				"layoutmgr_mixitup.js",
+				"Test\\Unit\\Templates\\Common\\view\\layoutmgr_mixitupspec.js"
+			],
+			[
+				"layoutmgrt",
+				"Test\\Unit\\Templates\\Common\\view\\layoutmgrtrspec.js"
+			],
+			[
+				"layoutmgrbmas",
+				"Test\\Unit\\Templates\\Common\\view\\layoutmgrbmaspec.js"
+			],
+			[
+				"assesmentd",
+				"Source\\common\\model\\interactions\\assessmentdata.js"
+			],
+			[
+				"mainctr",
+				"Source\\player\\simpleplayer\\controllers\\mainctrl.js"
+			],
+			[
+				"simplep",
+				"Source\\player\\simpleplayer\\controllers\\simpleplayerctrl.js"
+			],
+			[
+				"mixit",
+				"Source\\templates\\mixitup\\css\\mixitup.css"
+			],
+			[
+				"scormt",
+				"Source\\common\\scormhelper\\scormterminator.js"
+			],
+			[
+				"scormterminator",
+				"Test\\Unit\\Common\\ScormHelper\\ScormTerminatorSpec.js"
+			],
+			[
+				"match",
+				"Source\\common\\model\\interactions\\match.js"
+			],
+			[
+				"gapmatch",
+				"Source\\common\\model\\interactions\\gapmatch.js"
+			],
+			[
+				"matchpa",
+				"Source\\common\\model\\xmlparser\\interactions\\matchparser.js"
+			],
+			[
+				"gapma",
+				"Source\\common\\model\\interactions\\gapmatch.js"
+			],
+			[
+				"layoutmgrfi",
+				"Source\\templates\\common\\view\\layoutmgrfib.js"
+			],
+			[
+				"activitymgrfib",
+				"Source\\templates\\common\\controller\\activitymgrfib.js"
+			],
+			[
+				"fill",
+				"Source\\templates\\fillintheblank_68\\css\\fillintheblank_68.css"
+			],
+			[
+				"layoutre",
+				"Source\\templates\\common\\view\\refReader\\layoutretell.js"
+			],
+			[
+				"activitymgrref",
+				"Source\\templates\\common\\controller\\activitymgrrefreader.js"
+			],
+			[
+				"layoutmgrrefre",
+				"Source\\templates\\common\\view\\layoutmgrrefreader.js"
+			],
+			[
+				"fillinte",
+				"Source\\templates\\fillintheblank_68\\css\\fillintheblank_68.css"
+			],
+			[
+				"pathbui",
+				"Source\\common\\model\\pathbuilder.js"
+			],
+			[
+				"layoutmgr",
+				"Source\\templates\\common\\view\\layoutmgr.js"
+			],
+			[
+				"path",
+				"Source\\common\\model\\pathbuilder.js"
+			],
+			[
+				"activitymgrtr",
+				"Source\\templates\\common\\controller\\activitymgrtr.js"
+			],
+			[
+				"tr_4_4_2_2",
+				"Source\\templates\\common\\fiction_layout\\tr_4_4_2_2\\css\\tr_4_4_2_2.css"
+			],
+			[
+				"sound",
+				"Source\\common\\lib\\createjs\\soundjs.js"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"activitymgr",
+				"Source\\templates\\common\\controller\\activitymgr.js"
+			],
+			[
+				"activitymgrt",
+				"Source\\templates\\common\\controller\\activitymgrtr.js"
+			],
+			[
+				"activitycho",
+				"Source\\templates\\common\\controller\\textreader\\activity_choice.js"
+			],
+			[
+				"layoutpa",
+				"Source\\templates\\common\\view\\textreader\\layout_passage.js"
+			],
+			[
+				"layoutmgrtr",
+				"Source\\templates\\common\\view\\layoutmgrtr.js"
+			],
+			[
+				"tr_4_4_2_3",
+				"Source\\templates\\common\\fiction_layout\\tr_4_4_2_3\\css\\tr_4_4_2_3.css"
+			],
+			[
+				"gap",
+				"Source\\templates\\common\\view\\utility\\gap_match_buttons_68.js"
+			],
+			[
+				"gapmatchbuttons",
+				"Source\\templates\\common\\view\\utility\\gap_match_buttons.js"
+			],
+			[
+				"activitymgrbuild",
+				"Source\\templates\\common\\controller\\activitymgr_buildorbreak.js"
+			],
+			[
+				"movieplayercon",
+				"Test\\Unit\\Templates\\movieplayerk5\\controller\\movieplayercontrollerk5spec.js"
+			],
+			[
+				"simpl",
+				"Source\\player\\simpleplayer\\controllers\\simpleplayerctrl.js"
+			],
+			[
+				"lay",
+				"Source\\templates\\common\\view\\layoutmgr.js"
+			],
+			[
+				"buildorbrea",
+				"Source\\templates\\common\\controller\\activitymgr_buildorbreak.js"
+			],
+			[
+				"mixitup_",
+				"Source\\templates\\mixitup_68\\css\\mixitup_68.css"
+			],
+			[
+				"mixi",
+				"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\mixitup\\css\\mixitup.css"
+			],
+			[
+				"fillinthe",
+				"Source\\templates\\fillintheblank_68\\css\\fillintheblank_68.css"
+			],
+			[
+				"fillin",
+				"Source\\templates\\fillintheblank\\css\\fillintheblank.css"
+			],
+			[
+				"tr_con",
+				"Source\\templates\\tr\\controller\\tr_controller.js"
+			],
+			[
+				"layout7",
+				"Source\\templates\\common\\layout\\layout7.html"
+			],
+			[
+				"layout.css",
+				"Source\\templates\\common\\layout\\css\\layout.css"
+			],
+			[
+				"smre_1285",
+				"Source\\lo\\smre_itr_001285\\qti\\smre_itr_001285_p.xml"
+			],
+			[
+				"layoutmgrref",
+				"Source\\templates\\common\\view\\layoutmgrrefreader.js"
+			],
+			[
+				"layoutmgrrea",
+				"Source\\templates\\common\\view\\layoutmgrreadingportal.js"
+			],
+			[
+				"activityp",
+				"Source\\templates\\common\\controller\\textreader\\activity_passage.js"
+			],
+			[
+				"layoutmgrread",
+				"Source\\templates\\common\\view\\layoutmgrreadingportal.js"
+			],
+			[
+				"readings",
+				"Source\\resources\\readingscos.xml"
+			],
+			[
+				"layoutpassage",
+				"Source\\templates\\common\\view\\textreader\\layout_passage_68.js"
+			],
+			[
+				"layout_passa",
+				"Source\\templates\\common\\view\\textreader\\layout_passage.js"
+			],
+			[
+				"tr_controller",
+				"Source\\templates\\tr\\controller\\tr_controller.js"
+			],
+			[
+				"mixitup_68",
+				"Source\\templates\\mixitup_68\\css\\mixitup_68.css"
+			],
+			[
+				"layout_c",
+				"Source\\templates\\common\\view\\textreader\\layout_coach.js"
+			],
+			[
+				"coach",
+				"Source\\templates\\tr\\coach\\coachchooser\\animation\\coach_chooser.js"
+			],
+			[
+				"coachchoose",
+				"Source\\templates\\tr\\coach\\coachchooser\\animation\\coach_chooser.js"
+			],
+			[
+				"animation",
+				"Source\\templates\\common\\controller\\animation_controller.js"
+			],
+			[
+				"tr.html",
+				"Source\\templates\\tr\\en_us\\tr.html"
+			],
+			[
+				"smng",
+				"Source\\templates\\common\\components\\smng_cursor.js"
+			],
+			[
+				"smre_ba_00016_p3",
+				"Source\\lo\\smre_ba_00016\\qti\\smre_ba_00016_p3.xml"
+			],
+			[
+				"layout.",
+				"Source\\templates\\common\\layout\\css\\layout.css"
+			],
+			[
+				"layoutpassa",
+				"Source\\templates\\common\\view\\textreader\\layout_passage_68.js"
+			],
+			[
+				"activitypassage",
+				"Source\\templates\\common\\controller\\textreader\\activity_passage.js"
+			],
+			[
+				"layoutnot",
+				"Source\\templates\\common\\view\\textreader\\layout_note.js"
+			],
+			[
+				"layoutp",
+				"Source\\templates\\common\\view\\textreader\\layout_passage.js"
+			],
+			[
+				"layout_note",
+				"Source\\templates\\common\\view\\textreader\\layout_note.js"
+			],
+			[
+				"layoutmgrreadingportal",
+				"Source\\templates\\common\\view\\layoutmgrreadingportal.js"
+			],
+			[
+				"tr_k_4_",
+				"Source\\templates\\common\\fiction_layout\\tr_k_4_2_1\\css\\tr_k_4_2_1.css"
+			],
+			[
+				"activitychoi",
+				"Source\\templates\\common\\controller\\textreader\\activity_choice.js"
+			],
+			[
+				"layout.cs",
+				"Source\\templates\\common\\layout\\css\\layout.css"
+			],
+			[
+				"layout107",
+				"Source\\templates\\common\\layout\\layout107.html"
+			],
+			[
+				"layoutmgrefreade",
+				"Source\\templates\\common\\view\\layoutmgrrefreader.js"
+			],
+			[
+				"tr.h",
+				"Source\\templates\\tr\\en_us\\tr.html"
+			],
+			[
+				"tr_html",
+				"Source\\templates\\common\\layout\\tr_template.html"
+			],
+			[
+				"activity_pa",
+				"Source\\templates\\common\\controller\\textreader\\activity_passage_68.js"
+			],
+			[
+				"activitypas",
+				"Source\\templates\\common\\controller\\textreader\\activity_passage.js"
+			],
+			[
+				"activitymgrread",
+				"Source\\templates\\common\\controller\\activitymgrreadingportal.js"
+			],
+			[
+				"layoutreadingportal",
+				"Source\\templates\\common\\view\\layoutmgrreadingportal.js"
+			],
+			[
+				"layout_pa",
+				"Source\\templates\\common\\view\\textreader\\layout_passage.js"
+			],
+			[
+				"layoutf",
+				"Source\\templates\\common\\view\\refReader\\layoutfluency.js"
+			],
+			[
+				"layoute",
+				"Source\\templates\\common\\view\\refReader\\layoutelapsedtime.js"
+			],
+			[
+				"layoutmgrre",
+				"Source\\templates\\common\\view\\layoutmgrrefreader.js"
+			],
+			[
+				"tr_contr",
+				"Source\\templates\\tr\\controller\\tr_controller.js"
+			],
+			[
+				"playerht",
+				"Source\\player\\simpleplayer\\partials\\player.html"
+			],
+			[
+				"activitymgr.",
+				"Source\\player\\common\\activitymgr.js"
+			],
+			[
+				"layout",
+				"C:\\xampp\\htdocs\\savitar\\02-Mar-15\\Source\\templates\\common\\layout\\css\\layout.css"
+			],
+			[
+				"tr_5_4_3_1",
+				"Source\\templates\\common\\fiction_layout\\tr_5_4_3_1\\css\\tr_5_4_3_1.css"
+			],
+			[
+				"tr_4_2_1",
+				"Source\\templates\\common\\fiction_layout\\tr_4_2_1_1\\css\\tr_4_2_1_1.css"
+			],
+			[
+				"tr_3_3_3",
+				"Source\\templates\\common\\fiction_layout\\tr_3_3_3_2\\css\\tr_3_3_3_2.css"
+			],
+			[
+				"tr_5_1_2_1",
+				"Source\\templates\\common\\fiction_layout\\tr_5_1_2_1\\css\\tr_5_1_2_1.css"
+			],
+			[
+				"tr_4_4_4",
+				"Source\\templates\\common\\fiction_layout\\tr_4_4_4_1\\css\\tr_4_4_4_1.css"
+			],
+			[
+				"layout.c",
+				"Source\\templates\\common\\layout\\css\\layout.css"
+			],
+			[
+				"tr_4_1_2_1",
+				"Source\\templates\\common\\fiction_layout\\tr_4_1_2_1\\css\\tr_4_1_2_1.css"
+			],
+			[
+				"tr_4_4_3_2",
+				"Source\\templates\\common\\fiction_layout\\tr_4_4_3_2\\css\\tr_4_4_3_2.css"
+			],
+			[
+				"tr_2_4_2_1_2",
+				"Source\\templates\\common\\fiction_layout\\tr_2_4_2_1_2\\css\\tr_2_4_2_1_2.css"
+			],
+			[
+				"tr_3_1_3_1",
+				"Source\\templates\\common\\fiction_layout\\tr_3_1_3_1\\css\\tr_3_1_3_1.css"
+			],
+			[
+				"layout18.",
+				"Source\\templates\\common\\layout\\layout18.html"
+			],
+			[
+				"tr_2_1_1_1",
+				"Source\\templates\\common\\fiction_layout\\tr_2_1_1_1\\css\\tr_2_1_1_1.css"
+			],
+			[
+				"smng_interactive",
+				"Source\\templates\\common\\components\\smng_interactive_paragraph.js"
+			],
+			[
+				"tr_2_3_3_1_1",
+				"Source\\templates\\common\\fiction_layout\\tr_2_3_3_1_1\\css\\tr_2_3_3_1_1.css"
+			],
+			[
+				"tr_k_1_3_1",
+				"Source\\templates\\common\\fiction_layout\\tr_k_1_3_1\\css\\tr_k_1_3_1.css"
+			],
+			[
+				"tr_2_3_",
+				"Source\\templates\\common\\fiction_layout\\tr_2_3_1_1\\css\\tr_2_3_1_1.css"
+			],
+			[
+				"tr_1_4_2_2",
+				"Source\\templates\\common\\fiction_layout\\tr_1_4_2_2\\css\\tr_1_4_2_2.css"
+			],
+			[
+				"tr_1_4_4_3",
+				"Source\\templates\\common\\fiction_layout\\tr_1_4_4_3\\css\\tr_1_4_4_3.css"
+			],
+			[
+				"tr_1_4_2_3",
+				"Source\\templates\\common\\fiction_layout\\tr_1_4_2_3\\css\\tr_1_4_2_3.css"
+			],
+			[
+				"interac",
+				"Source\\common\\model\\xmlparser\\interactions\\interactionparser.js"
+			],
+			[
+				"layoutmgrrefe",
+				"Source\\templates\\common\\view\\layoutmgrrefreader.js"
+			],
+			[
+				"layoutmgrl",
+				"Source\\templates\\common\\view\\layoutmgr_letsrace.js"
+			],
+			[
+				"activitypassa",
+				"Source\\templates\\common\\controller\\textreader\\activity_passage.js"
+			],
+			[
+				"activitymgra",
+				"Source\\templates\\common\\controller\\activitymgr_abcbook.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

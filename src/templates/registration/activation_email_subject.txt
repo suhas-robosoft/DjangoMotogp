@@ -1,0 +1,1 @@
+Activate Email Registration for {{ site.name }}
