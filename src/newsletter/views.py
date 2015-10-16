@@ -2,6 +2,7 @@ from django.conf import settings
 from django.core.mail import send_mail
 from django.shortcuts import render
 from .forms import SignUpForm, ContactForm, RegistrationForm
+from .models import SignUp
 
 # Create your views here.
 
@@ -16,12 +17,14 @@ def home(request):
 	form = SignUpForm(request.POST or None)
 
 	if request.user.is_authenticated():
-		message = "What's Up "
+		message = "What's Up?"
 		user = request.user
+	queryset = SignUp.objects.all().order_by('-timestamp').filter(full_name__iexact='Anonymous');
 	context = {
 		'wish': message,
 		'username': user,
-		'form': form
+		'form': form,
+		'queryset': queryset
 	}
 	# it's safer to do most of the validation inside SignUp class in forms.py instead
 	if form.is_valid():

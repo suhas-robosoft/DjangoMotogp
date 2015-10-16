@@ -10,14 +10,14 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<h1>Catalunya 2009</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo odit, laborum debitis impedit illum error nisi repellat molestias, sunt fuga dolore, accusantium voluptate, nam tenetur possimus. </p>
+				<p>Possibly the best Motogp race finish ever! Valentino Rossi and Jorge Lorenzo battle it out in Catalunya 2009.</br></br>Produced and Directed by Tim Fowden for British Eurosport. Edited by Sarjit Bains. </p>
 				<p>
 				<a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">About Us &raquo;</a>
 				</p>
 			</div>
 
 			<div class="col-sm-6">
-				<iframe src="https://player.vimeo.com/video/32756097?title=0&byline=0&portrait=0" width="525" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<iframe src="https://player.vimeo.com/video/32756097?color=0C4B33&title=0&byline=0&portrait=0" width="525" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			</div>
 		</div>
 	</div>
@@ -27,16 +27,30 @@
 {% block content%}
 <div class="container">
 	<div class="row">
-		<div class="col-xs-3 lead text-align-center">Laboriosam quasi aperiam</div>
-		<div class="col-xs-3 lead text-align-center">Aliquam expedita hic, laudantium rem</div>
-		<div class="col-xs-3 lead text-align-center">Mollitia, earum!</div>
-		<div class="col-xs-3 pull-right">
-			<div class="lead text-align-center">{{wish}}</div>
-
-			<form class="col-xs-12" method="POST" action="">{% csrf_token %}
-				{{ form|crispy }}
-				<input class="btn btn-primary" type="submit" value="Sign Up">
-			</form>
+		<div class="col-xs-2 lead text-align-center">Laboriosam quasi aperiam</div>
+		<div class="col-xs-2 lead text-align-center">Aliquam expedita hic, laudantium rem</div>
+		<div class="col-xs-2 lead text-align-center">Mollitia, earum!</div>
+		<div class="col-xs-6 pull-right">
+			{% if request.user.is_authenticated and request.user.is_staff %}
+				<div class="lead text-align-center">Hey Admin!</div>
+				<table class="table">
+				{% for set in queryset %}
+					<tr>
+						<td>{{ set }}</td>
+						<td>{{ set.full_name }}</td>
+						<td>{{ set.timestamp|timesince }}</td>
+					</tr>
+				{% endfor %}
+				</table>
+			{% elif request.user.is_authenticated %}
+				<div class="lead text-align-center">{{wish}}</div>
+			{% else %}
+				<div class="lead text-align-center">Sign Up</div>
+				<form class="col-xs-12" method="POST" action="">{% csrf_token %}
+					{{ form|crispy }}
+					<input class="btn btn-primary" type="submit" value="Sign Up">
+				</form>
+			{% endif %}
 		</div>
 	</div>
 </div>
